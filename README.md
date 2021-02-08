@@ -1,2 +1,2 @@
-# Assignment-2---Login-Registration-Forms
+# Assignment-2_Login-Registration-Forms
 Java Servlets
